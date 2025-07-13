@@ -2,20 +2,20 @@
   "name": "fit",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://miroshniksport.github.io/fit",
+  "homepage": "https://miroshnikfit.github.io/fit",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /fit/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miroshniksport/fit.git"
+    "url": "git+https://github.com/miroshnikfit/fit.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "miroshnikfit <miroshnikfit@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miroshniksport/fit/issues"
+    "url": "https://github.com/miroshnikfit/fit/issues"
   },
   "dependencies": {
     "axios": "^1.1.2",
